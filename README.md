@@ -1,5 +1,6 @@
 # EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
-
+## Name: T.Danush Reddy
+## Reg.No:212223040029
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
 - AWS Elastic Block Store (EBS)
